@@ -1,2 +1,2 @@
-# js-dev-env
+# JavaScript Development Environment
 JavaScript development environment project starter
