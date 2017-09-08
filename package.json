@@ -1,0 +1,13 @@
+{
+    "name": "js-dev-env",
+    "version": "0.0.1",
+    "description": "JavaScript development environment project starter.",
+    "scripts": {
+
+    },
+    "author": "Patrick Ashamalla",
+    "license": "MIT",
+    "dependencies": {
+
+    }
+}
