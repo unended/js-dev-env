@@ -20,7 +20,7 @@ JavaScript development environment project starter
 | eslint                        | |
 | eslint-plugin-import          | |
 | eslint-watch                  | |
-| extract-text-webpack-plugin   | Extracts text from bundle into a file.                                                                    |
+| extract-text-webpack-plugin   | Extracts text from bundle into a separate file.                                                           |
 | express                       | Web framework.                                                                                            |
 | html-webpack-plugin           | Simplifies HTML files creation that includes a hash that changes with each compilation. _webpack plugin_  |
 | jsdom                         | JS implementation of many web standards.                                                                  |
@@ -37,6 +37,7 @@ JavaScript development environment project starter
 | open                          | Opens a file or URL in the preferred application.                                                         |
 | rimraf                        | Command `rm -rf` for node.                                                                                |
 | style-loader                  | Add exports of a module as style to DOM. _webpack_                                                        |
+| surge                         | |
 | webpack                       | Bundling.                                                                                                 |
 | webpack-dev-middleware        | Emits files processed by webpack to a server used in custom setup. Usually part of webpack-dev-server.    |
 | webpack-hot-middleware        | Enables HMR on custom setup when using webpack-dev-middleware instead of webpack-dev-server.              |
